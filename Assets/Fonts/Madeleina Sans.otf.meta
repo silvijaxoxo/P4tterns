@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a0f2ac879f4ab714c8b9da7ca346fe68
+timeCreated: 1542551416
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Madeleina Sans
+  fontNames:
+  - Madeleina Sans
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
